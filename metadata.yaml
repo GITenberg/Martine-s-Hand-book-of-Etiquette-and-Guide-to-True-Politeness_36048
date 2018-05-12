@@ -1,0 +1,31 @@
+_repo: Martine-s-Hand-book-of-Etiquette-and-Guide-to-True-Politeness_36048
+_version: 0.1.0
+alternative_title: Martine's Handbook of Etiquette, and Guide to True Politeness
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martine, Arthur
+    gutenberg_agent_id: '38057'
+    url: http://www.gutenberg.org/2009/agents/38057
+description: Title; Contents; Hand-Book of Etiquette, and Guide to True Politeness;
+  General Observations; The Art of Conversation; General Rules for Conversation; On
+  Dress; Introductions; Letters of Introduction; Dinner Parties; Habits at Table;
+  Wine at Table; Carving; Etiquette of the Ball and Assembly Room; Evening Parties;
+  Visiting; Street Etiquette; Traveling; Marriage; Domestic Etiquette and Duties;
+  On General Society; Endnotes
+gutenberg_issued: '2011-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36048'
+  lccn: 09030600
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'BJ'
+title: Martine's Hand-book of Etiquette, and Guide to True Politeness
+url: http://www.gutenberg.org/ebooks/36048
